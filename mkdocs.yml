@@ -3,43 +3,43 @@ repo_url: https://github.com/Bingboom/KM1 #（请修改为你自己的仓库地�
 edit_uri: edit/main/docs/
 
 theme:
-    name: mkdocs
-    palette:
+  name: material
+  palette:
 
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: blue
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+  # Light mode
+  - media: "(prefers-color-scheme: light)"
+    scheme: default
+    primary: blue
+    accent: indigo
+    toggle:
+      icon: material/toggle-switch-off-outline
+      name: Switch to dark mode
 
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: blue
-      accent: blue
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+  # Dark mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    primary: blue
+    accent: blue
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to light mode
 
 # Extensions
 markdown_extensions:
-  - footnotes
-  # - attr_list
+- footnotes
+# - attr_list
+#  - pymdownx.emoji:
+#      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+# - admonition
+- toc:
+    permalink: true
+
   # - pymdownx.arithmatex
   # - pymdownx.superfences
   # - pymdownx.details
   # - pymdownx.magiclink
   # - pymdownx.tasklist:
   #     custom_checkbox: true
-#  - pymdownx.emoji:
-#      emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  # - admonition
-  - toc:
-      permalink: true
-
 plugins:
-  - search
-  - roamlinks 
+- search
+- roamlinks
