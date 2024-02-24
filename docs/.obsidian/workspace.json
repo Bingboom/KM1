@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文章1.md",
+                "file": "Welcome to My Digital Garden.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文章1.md",
+                "file": "Welcome to My Digital Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文章1.md",
+                "file": "Welcome to My Digital Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文章1.md"
+                "file": "Welcome to My Digital Garden.md"
               }
             }
           }
@@ -132,12 +132,18 @@
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "d8a0aea33f753bd9",
   "lastOpenFiles": [
-    "index.md",
+    "Sample1.md",
+    "Welcome to My Digital Garden.md",
+    "00. Files.md",
+    "00. Dashboard.md",
+    "00. References.md",
+    "00. Homepage.md",
     "文章1.md"
   ]
 }
