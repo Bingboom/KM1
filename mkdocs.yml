@@ -1,6 +1,6 @@
 site_name: Pika!（请修改）
 repo_url: https://github.com/Bingboom/KM1 #（请修改为你自己的仓库地址）
-edit_uri: edit/mainhttps://github.com/Bingboom/KM1/docs/
+edit_uri: https://github.com/Bingboom/KM1/docs/
 
 theme:
   name: material
