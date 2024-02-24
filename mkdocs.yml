@@ -3,7 +3,7 @@ repo_url: https://github.com/Bingboom/KM1 #（请修改为你自己的仓库地�
 edit_uri: edit/main/docs/
 
 theme:
-    name: material
+    name: mkdocs
     palette:
 
     # Light mode
