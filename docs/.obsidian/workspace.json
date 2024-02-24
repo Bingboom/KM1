@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b368e43d8ed9050",
+        "id": "c0156af2fdf54e30",
         "type": "tabs",
         "children": [
           {
-            "id": "00e5d658378d741e",
+            "id": "9034ce5715e32f85",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -137,13 +137,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "00e5d658378d741e",
+  "active": "9034ce5715e32f85",
   "lastOpenFiles": [
-    "Home.md",
-    "Day1.md",
     "Sample1.md",
-    "未命名",
+    "Home.md",
     "Welcome to My Digital Garden.md",
+    "Vault",
+    "未命名",
+    "Day1.md",
     "00. Files.md",
     "00. Dashboard.md",
     "00. References.md",
