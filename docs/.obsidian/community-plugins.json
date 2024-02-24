@@ -4,5 +4,9 @@
   "obsidian-git",
   "floating-toc",
   "obsidian-reading-time",
-  "templater-obsidian"
+  "templater-obsidian",
+  "homepage",
+  "dataview",
+  "obsidian-banners",
+  "contribution-graph"
 ]

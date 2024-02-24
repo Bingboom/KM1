@@ -34,5 +34,13 @@
       ],
       "key": "B"
     }
+  ],
+  "contribution-graph:create-graph": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }
