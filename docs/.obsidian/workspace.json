@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Homepage.md"
               }
             }
           }
@@ -139,9 +139,9 @@
   },
   "active": "7647c2eb5d18efca",
   "lastOpenFiles": [
-    "Welcome to My Digital Garden.md",
-    "Sample1.md",
     "index.md",
+    "Homepage.md",
+    "Sample1.md",
     "Home.md",
     "Vault",
     "未命名",
