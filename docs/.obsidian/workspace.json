@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "14e219deba407bde",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b368e43d8ed9050",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8a0aea33f753bd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文章1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c769a19b74bc2737",
+    "type": "split",
+    "children": [
+      {
+        "id": "48df149a5057f131",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7647c2eb5d18efca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31798a1cc666c88f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0cdd1d9a13986cd8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "197e5d58cc8a4e0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f1e84aa43e4472a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18802141954731d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "文章1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b74f47c993f4aabe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "文章1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03f253098329df44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "文章1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "d8a0aea33f753bd9",
+  "lastOpenFiles": [
+    "index.md",
+    "文章1.md"
+  ]
+}
