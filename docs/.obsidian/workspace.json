@@ -11,8 +11,12 @@
             "id": "2b5bae5253abf817",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🗂🧰写作工具箱/说故事的人的故事.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -102,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "197e5d58cc8a4e0d",
@@ -119,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🗂🧰写作工具箱/说故事的人的故事.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🗂🧰写作工具箱/说故事的人的故事.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🗂🧰写作工具箱/说故事的人的故事.md"
+              }
             }
           },
           {
@@ -180,11 +187,14 @@
   },
   "active": "7647c2eb5d18efca",
   "lastOpenFiles": [
+    "🏡Home.md",
+    "🚀NebulaPKM_Kit_介绍.md",
+    "2024-03-25.md",
+    "Homepage.md",
+    "Drawing 2024-03-25 14.22.05.excalidraw.md",
     "🗂👩PKM/🗂模板/💡 读书笔记.md",
     "🗂👩PKM/🗂模板/2024年日历：五月.md",
     "🗂👩PKM/🗂模板/2024年日历：一月.md",
-    "🚀NebulaPKM_Kit_介绍.md",
-    "🏡Home.md",
     "🗂🧰写作工具箱/说故事的人的故事.md",
     "🗂👩PKM/🗂模板/2024年日历：二月.md",
     "🗂👩PKM/🗂模板/2024年日历：八月.md",
@@ -193,10 +203,7 @@
     "🗂👩PKM/🗂模板/🌊2024年12月日历.md",
     "🗂👩PKM/🗂模板/🌊2024年年度计划.md",
     "规划.md",
-    "Drawing 2024-03-25 14.22.05.excalidraw.md",
-    "2024-03-25.md",
     "index.md",
-    "Homepage.md",
     "🗂👩PKM/🗂Nebula/6步骤基本使用入门.md",
     "🗂👩PKM/🗂Nebula/🪐NebulaPKM.md",
     "🗂👩PKM/🗂Nebula/常用Markdown语法.md",
