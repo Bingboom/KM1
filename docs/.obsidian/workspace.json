@@ -4,22 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "c0156af2fdf54e30",
+        "id": "970a6b7782903649",
         "type": "tabs",
         "children": [
           {
-            "id": "9034ce5715e32f85",
+            "id": "2b5bae5253abf817",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
+      },
+      {
+        "id": "7174800298033590",
+        "type": "split",
+        "children": [
+          {
+            "id": "1e38ec6302a789cf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9c6967e6db85e688",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "🗂👩PKM/🗂模板/💡 读书笔记.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "f5cb4cb71b1166ab",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8c68a4a94c34581f",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -69,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "197e5d58cc8a4e0d",
@@ -85,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,9 +145,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Homepage.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "6bfb0a4d84da0940",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -133,23 +171,42 @@
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
+      "periodic-notes:Open today": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "3d-graph:3D Graph": false
     }
   },
   "active": "7647c2eb5d18efca",
   "lastOpenFiles": [
+    "🗂👩PKM/🗂模板/💡 读书笔记.md",
+    "🗂👩PKM/🗂模板/2024年日历：五月.md",
+    "🗂👩PKM/🗂模板/2024年日历：一月.md",
+    "🚀NebulaPKM_Kit_介绍.md",
+    "🏡Home.md",
+    "🗂🧰写作工具箱/说故事的人的故事.md",
+    "🗂👩PKM/🗂模板/2024年日历：二月.md",
+    "🗂👩PKM/🗂模板/2024年日历：八月.md",
+    "🗂👩PKM/🗂模板/💡 商业画布.md",
+    "🗂👩PKM/🗂模板/💡 学习新概念.md",
+    "🗂👩PKM/🗂模板/🌊2024年12月日历.md",
+    "🗂👩PKM/🗂模板/🌊2024年年度计划.md",
+    "规划.md",
+    "Drawing 2024-03-25 14.22.05.excalidraw.md",
+    "2024-03-25.md",
     "index.md",
     "Homepage.md",
-    "Sample1.md",
-    "Home.md",
+    "🗂👩PKM/🗂Nebula/6步骤基本使用入门.md",
+    "🗂👩PKM/🗂Nebula/🪐NebulaPKM.md",
+    "🗂👩PKM/🗂Nebula/常用Markdown语法.md",
+    "🗂👩PKM/🗂Nebula/搭建模型：如何搭建“星云知识系统”（PK系统）？.md",
+    "🗂👩PKM/🗂Nebula/工作学习-如何做广告策划？.excalidraw.md",
+    "🗂👩PKM/🗂Nebula/如何利用标签组织笔记系统.md",
+    "🗂👩PKM/🗂Nebula/如何使用关系图谱.md",
+    "🗂👩PKM/🗂Nebula/如何使用模板标准化个人知识管理系统流程.md",
+    "🗂👩PKM/🗂Nebula/TFT：我们塑造了工具，然后工具塑造我们.md",
     "Vault",
-    "未命名",
-    "Day1.md",
-    "00. Files.md",
-    "00. Dashboard.md",
-    "00. References.md",
-    "00. Homepage.md",
-    "文章1.md"
+    "未命名"
   ]
 }

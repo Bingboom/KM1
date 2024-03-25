@@ -8,5 +8,13 @@
   "homepage",
   "dataview",
   "obsidian-banners",
-  "contribution-graph"
+  "contribution-graph",
+  "obsidian-excalidraw-plugin",
+  "calendar",
+  "obsidian-emoji-toolbar",
+  "obsidian-style-settings",
+  "3d-graph",
+  "periodic-notes",
+  "obsidian-charts",
+  "obsidian-pandoc"
 ]
